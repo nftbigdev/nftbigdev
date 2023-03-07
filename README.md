@@ -1,4 +1,4 @@
-<h2 align="center">React/Blockchain Engineer</h2>
+<h2 align="center">Web Full-stack Engineer</h2>
 
 ## 🤵 About Me
 <p align="center"><img src="https://github.com/redsky500/redsky500/blob/main/images/fullStack.webp" /></p>
