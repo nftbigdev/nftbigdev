@@ -1,7 +1,6 @@
 <h2 align="center">React/Blockchain Engineer</h2>
 
 ## 🤵 About Me
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=nftbigdev&theme=white" />
 <p align="center"><img src="https://github.com/redsky500/redsky500/blob/main/images/fullStack.webp" /></p>
 
 ## 🚀 Achievements
