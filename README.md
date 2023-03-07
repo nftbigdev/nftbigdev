@@ -7,12 +7,15 @@ I have been a passionate full stack blockchain engineer with 6+ years experience
 ## 🚀 Achievements
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nftbigdev&theme=light&count_private=true&layout=compact" alt="nftbigdev's most used languages" />
 
-- ⭐ Contributed to a number of DEFI, DEX, NFT Projects, Web and Cross mobile Applications
+## Skills
 
-- 🎓 Bachelor’s degree, Computer Engineering 
-
-- ❤️ ETH, BTC, EGLD(Elrond), Dapp, TRON, DEFI, NFT, SOLIDITY, Smart contracts, ICO, TOKENS, ERC-20/ERC-721/ERC-1155, BEP-20/BEP-721/BEP-1155, TRC-20/TRC-721/TRC-1155
-
+- 🌱 Frontend : React.js, Vue.js, Next.js, Nuxt.js, React Native, Angular.js, Svelte, Jquery, Tailwind, Bootstrap, Vuetify, MDB react, LESS/SASS
+- 🔭 Backend : Express, Nest.js, Laravel, Django, Ruby on Rails
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
+- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Ruby
+- 📫 Interesting : Web, Blockchain, mobile
+- Cypress, Mocha, AWS, Rest API
+- Blockchain, Web3.js, Ether.js, Solidity, Truffle, Hardhat, IPFS
 
 ## 🏆 Profile Trophy
 
