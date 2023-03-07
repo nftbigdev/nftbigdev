@@ -17,6 +17,43 @@ I have been a passionate full stack blockchain engineer with 6+ years experience
 - Cypress, Mocha, AWS, Rest API
 - Blockchain, Web3.js, Ether.js, Solidity, Truffle, Hardhat, IPFS
 
+## Tools
+
+<p align="center">
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/angular.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/react.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/redux.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/vue.svg" />
+  
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/laravel.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/express.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/nodejs.svg" />
+  
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/php.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/python.svg" />
+  
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/postgresql.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/mongodb.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/mysqlsvg.svg" />
+  
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/javascript.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/graphql.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/sass.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/sqlite.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/typescript.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/css.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/aws.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/docker.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/git.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/github.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/gitlabsvg.svg" />
+  
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/bitcoin.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/ethereum.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/solidity.svg" />
+  <img src="https://github.com/redsky500/redsky500/blob/main/icons/web3.svg" />
+</p>
+
 ## 🏆 Profile Trophy
 
 <p align="center">
@@ -76,9 +113,3 @@ I have been a passionate full stack blockchain engineer with 6+ years experience
 </p>
 <br/>
 
-### Hi there 👋
-
-- 🔭 I’m currently working on Smart Contract
-- 🌱 I’m currently learning Math
-- 📫 How to reach me
- -->
