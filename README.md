@@ -7,15 +7,6 @@ I have been a passionate full stack blockchain engineer with 6+ years experience
 ## 🚀 Achievements
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nftbigdev&theme=light&count_private=true&layout=compact" alt="nftbigdev's most used languages" />
 
-## 🏆 Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/nftbigdev">
-    <img src="https://github-profile-trophy.vercel.app/?username=nftbigdev&row=1&column=7&no-bg=true&margin-w=42"/>
-  </a>
-</p>
-
-
 ## Tools
 
 <p align="center">
@@ -63,7 +54,16 @@ I have been a passionate full stack blockchain engineer with 6+ years experience
 - 📫 Interesting : Web, Blockchain, mobile
 - Cypress, Mocha, AWS, Rest API
 - Blockchain, Web3.js, Ether.js, Solidity, Truffle, Hardhat, IPFS
-- 
+
+## 🏆 Profile Trophy
+
+<p align="center">
+  <a href="https://github.com/nftbigdev">
+    <img src="https://github-profile-trophy.vercel.app/?username=nftbigdev&row=1&column=7&no-bg=true&margin-w=42"/>
+  </a>
+</p>
+
+
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nftbigdev)](https://github.com/nftbigdev/github-profile-trophy)
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nftbigdev&theme=light&count_private=true&layout=compact" alt="nftbigdev's most used languages" />
